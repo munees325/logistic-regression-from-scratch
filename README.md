@@ -22,4 +22,4 @@ Binary classification dataset from Kaggle.
 Custom Logistic Regression model works similar to scikit-learn model.
 
 ## Author
-Munees M
+Muneeswaran M
